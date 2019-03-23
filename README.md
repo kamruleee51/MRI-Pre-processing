@@ -24,8 +24,8 @@ Bias field correction also called intensity inhomogeneity which is due to the in
 
 
 ## Reference
-[1] P. Perona and J. Malik. “Scale-space and edge detection using ansotropic diffusion.” IEEE Transactions on Pattern Analysis and Machine Intelligence, 12(7):629-639, July 1990.
-[2] Li, C., Gore, J. and Davatzikos, C. “Multiplicative intrinsic component optimization (MICO) for MRI bias field estimation and tissue segmentation.” Magnetic Resonance Imaging, 32(7), pp.913-923, 2014.
+[1] P. Perona and J. Malik. “Scale-space and edge detection using ansotropic diffusion.” IEEE Transactions on Pattern Analysis and Machine Intelligence, 12(7):629-639, July 1990. <b>
+[2] Li, C., Gore, J. and Davatzikos, C. “Multiplicative intrinsic component optimization (MICO) for MRI bias field estimation and tissue segmentation.” Magnetic Resonance Imaging, 32(7), pp.913-923, 2014. <b>
 [3] Puniani, S. and Arora, S. “Performance Evaluation of Image Enhancement Techniques. ” International Journal of Signal Processing, Image Processing and Pattern Recognition, 8(8), pp.251-262,2015.
 [4] Inflibnetacin. (2018). Inflibnetacin. Retrieved 28 October, 2018, from http://shodhganga.inflibnet.ac.in/bitstream/10603/23580/8/08_chapter 3.pdf
 [5] Zhou, W., A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli. "Image Qualifty Assessment: From Error Visibility to Structural Similarity." IEEE Transactions on Image Processing. Vol. 13, Issue 4, April 2004, pp. 600–612.
