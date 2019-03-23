@@ -8,23 +8,9 @@ The metric used for the evaluation of pre-processing algorithms are-
 
     * Entropy difference 
     * Tenengrad (TGD) difference
-
-3.3
-Mean Square Error (MSE)
-
-3.4
-Peak Signal to Noise Ratio (PSNR)
-
-3.5
-Absolute Mean Brightness Error (AMBE)
-
-3.6
-Contrast Improvement Index (CII)
-
-3.7
-Structural Similarity Index (SSIM)
-
-3.8
-Normalized Cross Correlation (NCC)
-
-    * 
+    * Mean Square Error (MSE) 
+    * Peak Signal to Noise Ratio (PSNR) 
+    * Absolute Mean Brightness Error (AMBE) 
+    * Contrast Improvement Index (CII) 
+    * Structural Similarity Index (SSIM) 
+    * Normalized Cross Correlation (NCC)
